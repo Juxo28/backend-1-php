@@ -1,3 +1,3 @@
 # Julian David Palacio Latorre
 
-**Primera seccion programacion orientada objeto**
+**Primera sesion programacion orientada objeto**
